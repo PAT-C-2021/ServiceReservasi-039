@@ -1,0 +1,7 @@
+C:\Users\Yapart\source\repos\ServiceReservasi\ServiceReservasi\bin\Debug\ServiceReservasi.dll.config
+C:\Users\Yapart\source\repos\ServiceReservasi\ServiceReservasi\bin\Debug\ServiceReservasi.dll
+C:\Users\Yapart\source\repos\ServiceReservasi\ServiceReservasi\bin\Debug\ServiceReservasi.pdb
+C:\Users\Yapart\source\repos\ServiceReservasi\ServiceReservasi\obj\Debug\ServiceReservasi.csproj.AssemblyReference.cache
+C:\Users\Yapart\source\repos\ServiceReservasi\ServiceReservasi\obj\Debug\ServiceReservasi.csproj.CoreCompileInputs.cache
+C:\Users\Yapart\source\repos\ServiceReservasi\ServiceReservasi\obj\Debug\ServiceReservasi.dll
+C:\Users\Yapart\source\repos\ServiceReservasi\ServiceReservasi\obj\Debug\ServiceReservasi.pdb
