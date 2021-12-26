@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ServiceReservasi")]
+[assembly: AssemblyTitle("ServiceReservasi-039")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ServiceReservasi")]
+[assembly: AssemblyProduct("ServiceReservasi-039")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("10568e8a-fd12-4822-bf8b-fcee13dc0d5f")]
+[assembly: Guid("daf239f0-149f-4714-ae9d-1dc5136fd693")]
 
 // Version information for an assembly consists of the following four values:
 //

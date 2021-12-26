@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.50727</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{10568E8A-FD12-4822-BF8B-FCEE13DC0D5F}</ProjectGuid>
+    <ProjectGuid>{DAF239F0-149F-4714-AE9D-1DC5136FD693}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ServiceReservasi</RootNamespace>
-    <AssemblyName>ServiceReservasi</AssemblyName>
+    <RootNamespace>ServiceReservasi_039</RootNamespace>
+    <AssemblyName>ServiceReservasi-039</AssemblyName>
     <ProjectTypeGuids>{3D9AD99F-2412-4246-B90B-4EAA41C64699};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <StartArguments>/client:"WcfTestClient.exe"</StartArguments>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>

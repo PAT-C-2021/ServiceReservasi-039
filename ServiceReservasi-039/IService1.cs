@@ -17,6 +17,16 @@ namespace ServiceReservasi_039
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);
 
+        [OperationContract]
+        string Login(string username, string password);
+        [OperationContract]
+        string Register(string username, string password, string kategori);
+        [OperationContract]
+        string UpdateRegister(string username, string password, string ketegori, int id);
+        [OperationContract]
+        string DeleteRegister(string username);
+        List<DataRegister> DataRegist();
+
         // TODO: Add your service operations here
         [OperationContract]
         string Pemesanann(string ID_Reservasi, string Nama_Customer, string No_Telpon, int Jumlah_Pemesanan, string ID_Lokasi); // Method // Proses input data
@@ -31,6 +41,19 @@ namespace ServiceReservasi_039
         [OperationContract]
         List<Pemesanann> Pemesanan();
     }
+    [DataContract]
+    public class DataRegister
+    {
+        [DataMember(Order = 1)]
+        public int id { get; set; }
+        [DataMember(Order = 2)]
+        public string username { get; set; }
+        [DataMember(Order = 3)]
+        public string password { get; set; }
+        [DataMember(Order = 4)]
+        public string kategori { get; set; }
+    }
+
     [DataContract]
     public class CekLokasi
     {
